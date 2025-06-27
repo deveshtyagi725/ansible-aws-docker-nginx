@@ -1,6 +1,6 @@
-# íº€ Ansible + AWS EC2 + Docker + Nginx Deployment
+# ï¿½ï¿½ï¿½ Ansible + AWS EC2 + Docker + Nginx Deployment
 
-This project showcases a fully automated deployment pipeline using **AWS EC2**, **Docker**, and **Nginx** to serve a custom HTML landing page â€” all built and deployed by me í¸Ž.
+This project showcases a fully automated deployment pipeline using **AWS EC2**, **Docker**, and **Nginx** to serve a custom HTML landing page â€” all built and deployed by me ï¿½ï¿½ï¿½.
 
 From spinning up the infrastructure to launching the application, everything was done using modern DevOps techniques and cloud-native tools.
 
@@ -17,37 +17,37 @@ From spinning up the infrastructure to launching the application, everything was
 
 ---
 
-## í¼ Live Demo
+## ï¿½ï¿½ï¿½ Live Demo
 
-í´— **Visit the Project Live:** [http://13.49.238.71](http://13.49.238.71)
+ï¿½ï¿½ï¿½ **Visit the Project Live:** [http://13.49.238.71](http://13.49.238.71)
 
 > No load balancers. No EC2 AMI images. Just pure command-line power and container magic.
 
 ---
 
-## í³ Project Files
+## ï¿½ï¿½ï¿½ Project Files
 
 - `index.html` â€“ Custom HTML served by Nginx inside the container  
 - `docker-run-commands.txt` â€“ Commands used to deploy the container  
 - `ec2-setup.md` â€“ Notes on EC2 setup, ports, and troubleshooting  
-- `README.md` â€“ You're reading it í¸Š
+- `README.md` â€“ You're reading it ï¿½ï¿½ï¿½
 
 ---
 
-## í»  Tools & Technologies Used
+## ï¿½ï¿½ï¿½ Tools & Technologies Used
 
-- í¿¢ AWS EC2 (Ubuntu 24.04)  
-- í°³ Docker  
-- í¼ Nginx  
-- í¶¥ Bash Scripting  
-- í´’ SSH  
-- í´§ Git + GitHub  
+- ï¿½ï¿½ï¿½ AWS EC2 (Ubuntu 24.04)  
+- ï¿½ï¿½ï¿½ Docker  
+- ï¿½ï¿½ï¿½ Nginx  
+- ï¿½ï¿½ï¿½ Bash Scripting  
+- ï¿½ï¿½ï¿½ SSH  
+- ï¿½ï¿½ï¿½ Git + GitHub  
 
 ---
-
-## í±¨â€í²» Built by
+fix: emojis rendering issue
+## ï¿½ï¿½ï¿½â€ï¿½ï¿½ï¿½ Built by
 
 **Devesh Tyagi**  
-> DevOps Enthusiast | Cloud Learner | Always Shipping íº€  
+> DevOps Enthusiast | Cloud Learner | Always Shipping ï¿½ï¿½ï¿½  
 > [GitHub](https://github.com/deveshtyagi725)
 
