@@ -1,6 +1,6 @@
-# ��� Ansible + AWS EC2 + Docker + Nginx Deployment
+# 🚀 Ansible + AWS EC2 + Docker + Nginx Deployment
 
-This project showcases a fully automated deployment pipeline using **AWS EC2**, **Docker**, and **Nginx** to serve a custom HTML landing page — all built and deployed by me ���.
+This project showcases a fully automated deployment pipeline using **AWS EC2**, **Docker**, and **Nginx** to serve a custom HTML landing page — all built and deployed by me 😎.
 
 From spinning up the infrastructure to launching the application, everything was done using modern DevOps techniques and cloud-native tools.
 
@@ -17,37 +17,36 @@ From spinning up the infrastructure to launching the application, everything was
 
 ---
 
-## ��� Live Demo
+## 🌐 Live Demo
 
-��� **Visit the Project Live:** [http://13.49.238.71](http://13.49.238.71)
+🔗 **Visit the Project Live:** [http://13.49.238.71](http://13.49.238.71)
 
 > No load balancers. No EC2 AMI images. Just pure command-line power and container magic.
 
 ---
 
-## ��� Project Files
+## 📁 Project Files
 
 - `index.html` – Custom HTML served by Nginx inside the container  
 - `docker-run-commands.txt` – Commands used to deploy the container  
 - `ec2-setup.md` – Notes on EC2 setup, ports, and troubleshooting  
-- `README.md` – You're reading it ���
+- `README.md` – You're reading it 😊
 
 ---
 
-## ��� Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 
-- ��� AWS EC2 (Ubuntu 24.04)  
-- ��� Docker  
-- ��� Nginx  
-- ��� Bash Scripting  
-- ��� SSH  
-- ��� Git + GitHub  
+- 🟢 AWS EC2 (Ubuntu 24.04)  
+- 🐳 Docker  
+- 🌐 Nginx  
+- 🖥 Bash Scripting  
+- 🔒 SSH  
+- 🔧 Git + GitHub  
 
 ---
-fix: emojis rendering issue
-## ���‍��� Built by
+
+## 👨‍💻 Built by
 
 **Devesh Tyagi**  
-> DevOps Enthusiast | Cloud Learner | Always Shipping ���  
+> DevOps Enthusiast | Cloud Learner | Always Shipping 🚀  
 > [GitHub](https://github.com/deveshtyagi725)
-
